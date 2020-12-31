@@ -3,6 +3,6 @@ dependencies:
   - pandas
   - numpy
   - scipy
-  - sklearn # sklearn depends on numpy and scipy but does not install them
+  #- sklearn # sklearn depends on numpy and scipy but does not install them
   - seaborn
   - statsmodels

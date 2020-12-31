@@ -2,7 +2,7 @@ dependencies:
   - matplotlib
   - pandas
   - numpy
-  - sklearn
   - scipy
+  - sklearn # sklearn depends on numpy and scipy but does not install them
   - seaborn
   - statsmodels

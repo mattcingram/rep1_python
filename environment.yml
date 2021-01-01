@@ -1,7 +1,8 @@
 dependencies:
   - matplotlib
-  - pandas
   - numpy
+  - pandas
+  - patsy
   - scipy
   - scikit-learn
   - seaborn
